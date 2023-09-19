@@ -31,7 +31,7 @@
 
 ## Extracurricular Activities
 
-04/2019: **FInalist**, *Pitch competition Breaking Science*, Utrecht
+04/2019: **Finalist**, *Pitch competition Breaking Science*, Utrecht
 
 09/2018 - 02/2022: **Member of Ph.D. Council Graduate School of Life Sicences (GS-LS)**, Utrecht
 
@@ -52,6 +52,12 @@
 02/2015 - 07/2016: **Scholar**, *Friedrich Ebert Foundation scholarship during master's degree*, Aachen
 
 10/2014 - 02/2015: **Scholar**, *Deutschlandstipendium scholarship*, Aachen
+
+09/2013 - 06/2015: **Scholar**, *DAAD scholarship for an exchange year in UK*, London
+
+2007 - 2009: **Scholar**, *START scholarship for commited students with migration background in secondary school*, Dresden
+
+
 
 
 
