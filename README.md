@@ -15,9 +15,12 @@
 03/2022 - current: **Postdoctoral researcher at Harvard T.H. Chan School of Public Health, Department of Epidemiology, Harvard University**
 - Defining trends and mathematical modeling of antibiotic use and resistance
 
+07/2021 - 03/2022: **Modeler** for *Ministry of Health, Welfare and Sport in the Netherlands*, Utrecht
+- Modeling transmission of SARS-COV-2 at secondary schools in the Netherlands
+
 02/2020 - 08/2020: Visiting researcher at Bacterial Resistance Analysis Group (BRAG), *Nuffield Department of Medicine, University of Oxford*
 
-- Modeling nosocomial transmission of SARS-CoV-2 in UK and community hand hygiene interventions for respiratory tract infections, supervised by Prof Ben Cooper
+- Modeling nosocomial transmission of SARS-CoV-2 in the UK and community hand hygiene interventions for respiratory tract infections, supervised by Prof Ben Cooper
 
 03/2016 - 05/2016: Erasmus internship within the framework of the master thesis, *Queen Mary University of London*
 
@@ -35,7 +38,7 @@
 
 09/2018 - 02/2022: **Member of Ph.D. Council Graduate School of Life Sicences (GS-LS)**, Utrecht
 
-- Activities include the composition of annual reports about individual programmes and discussion of those with the Executive Board of Studies, organisation of the annual PhD. Day and bimonthly Ph.D. events
+- Activities include the composition of annual reports about individual programs and discussion of those with the Executive Board of Studies, organization of the annual Ph.D. Day and bimonthly Ph.D. events
 
 11/2015 - 01/2017: **Volunteer**, *Team Curriculum of Kiron Open Higher Education* 
 
@@ -45,7 +48,7 @@
 
 ## Awards and Honors
 
-02/2020 - 07/2020: **Grant recipient**, *SLAS Visiting Graduate Researcher Program Grant for research visit at University of Oxford*, Oxford
+02/2020 - 07/2020: **Grant recipient**, *SLAS Visiting Graduate Researcher Program Grant for a research visit at the University of Oxford*, Oxford
 
 08/2016 - 11/2016: **Scholar**, *PROMOS scholarship for an internship abroad*, Québec city
 
