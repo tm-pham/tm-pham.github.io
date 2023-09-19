@@ -45,6 +45,15 @@
 
 ## Awards and Honors
 
+02/2020 - 07/2020: **Grant recipient**, *SLAS Visiting Graduate Researcher Program Grant for research visit at University of Oxford*, Oxford
+
+08/2016 - 11/2016: **Scholar**, *PROMOS scholarship for an internship abroad*, Québec city
+
+02/2015 - 07/2016: **Scholar**, *Friedrich Ebert Foundation scholarship during master's degree*, Aachen
+
+10/2014 - 02/2015: **Scholar**, *Deutschlandstipendium scholarship*, Aachen
+
+
 
 
 
