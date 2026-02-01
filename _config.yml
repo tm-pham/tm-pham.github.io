@@ -13,7 +13,7 @@ title                    : "Mui Pham"
 title_separator          : "-"
 name                     : &name "Mui Pham"
 description              : &description "Mui's academic webpage"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://tm-pham.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://tm-pham.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tm-pham/tm-pham.github.io"
@@ -26,7 +26,7 @@ author:
   avatar           : "Mui.jpg"
   name             : "Mui Pham"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Research Associate @ University of Utah | formerly: Postdoc at Harvard T.H. Chan School of Public Health and Ph.D. at UMC Utrecht, The Netherlands | mathematical and statistical modeling of infectious diseases | AMR | Genomics"
+  bio              : "Postdoctoral Research Associate @ University of Utah | formerly: Postdoc at Harvard T.H. Chan School of Public Health and Ph.D. at UMC Utrecht, The Netherlands | Mathematical and statistical modeling of infectious diseases | AMR | Genomics"
   location         : "Salt Lake City (UT)"
   employer         : "University of Utah"
   uri              : # URL
