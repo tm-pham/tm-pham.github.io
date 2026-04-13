@@ -9,7 +9,7 @@ Over the years, I've collected books, papers, tutorials, and tools that have hel
 
 The collection reflects my own path and interests, so it leans toward infectious disease modeling, epidemiological methods, and the practical side of academic life. It's not meant to be exhaustive. I've tried to highlight resources that I've personally found useful or that I'd recommend to a student or collaborator who asked me where to start.
 
-This page is a work in progress. If you have suggestions for resources I should add, I'd love to [hear from you](mailto:{{ site.author.email }}).
+This page is a work in progress. If you have suggestions for resources I should add, I'd love to hear from you.
 
 ---
 
