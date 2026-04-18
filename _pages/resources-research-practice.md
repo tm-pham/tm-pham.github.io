@@ -28,7 +28,7 @@ If you are navigating this as a PhD student, postdoc, or mentor, I highly recomm
 
 My colleague George Vega Yon at the University of Utah is writing an open guide on using AI in scientific work. The book is still very much in progress, but what I appreciate most is how transparent George is about his own use of AI throughout the writing process — he flags which sections are AI-assisted and unreviewed, and even shares the original ChatGPT conversations that produced them. Beyond that transparency, the guide offers genuinely practical advice on navigating authorship and maintaining intellectual ownership when working with generative AI.
 
-- Vega Yon, G. G. [AI for the Scientist in a Hurry](https://book-ai.ggvy.cl/). An evolving, open guide on integrating AI into scientific research, writing, and programming—with a strong emphasis on transparency and responsible use.
+- Vega Yon, G. G. [AI for the Scientist in a Hurry](https://book-ai.ggvy.cl/).
 
 
 If you're looking for a practical starting point to explore what AI tools are available for research, Georgetown University Library maintains a useful overview. It covers chatbots, AI-powered search engines, and writing assistants, and is regularly updated as the landscape evolves.
