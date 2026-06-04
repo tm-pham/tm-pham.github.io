@@ -21,6 +21,12 @@ This matters because generative AI is not just changing how we work; it is chang
 
 But that is not an argument for rejecting these tools. It is an argument for being deliberate about how and when we use them, particularly during training.
 
+Being deliberate is easier said than done, so I've started writing my own practical guide on how I actually use AI in my day-to-day research. It covers workflows for literature review and agentic coding in computational epidemiology, along with an accompanying example repository.
+
+- [Using AI in Research](/resources/ai-in-research/) — my personal, evolving guide.
+
+Beyond my own notes, I also collect here a few guides by others that I have found useful.
+
 If you are navigating this as a PhD student, postdoc, or mentor, I highly recommend the resources below by Arjun Krishnan, which offer both a principled framework and practical, task-specific guidance for incorporating generative AI into research training.
 
 - Krishnan, A. (2026). [Build expertise first: why PhD training must sequence AI use after foundational skill development](https://doi.org/10.5281/zenodo.18649847). *Zenodo*.
@@ -35,9 +41,7 @@ If you're looking for a practical starting point to explore what AI tools are av
 
 - Georgetown University Library. [AI Tools for Research](https://guides.library.georgetown.edu/ai/tools).
 
-Beyond these external resources, I've started writing my own practical guide on how I actually use AI in my day-to-day research. It covers workflows for literature review and agentic coding in computational epidemiology, along with an accompanying example repository.
 
-- [Using AI in Research](/resources/ai-in-research/) — my personal, evolving guide.
 
 ## Academic Writing
 
