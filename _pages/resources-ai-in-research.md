@@ -31,9 +31,24 @@ AI tools are genuinely useful for navigating literature, especially when enterin
 
 **Generating research questions.** AI is a useful brainstorming partner for identifying gaps and framing questions. Deciding which questions are actually worth pursuing is where domain expertise is irreplaceable.
 
+### Tools I use
+
+I group these by where they help most in the process.
+
+*For mapping a field and discovering papers:*
+
+- **Perplexity Deep Research** and **ChatGPT Deep Research** — useful for generating an initial map of a field and surfacing key terminology, methods, and debates. Hallucination can be a real problem, so I explicitly ask the model to back every claim with a real paper and to confirm that each source it cites actually exists.
+- **[ResearchRabbit](https://www.researchrabbit.ai/)** — excellent for citation-network exploration and discovering related papers, authors, and research clusters.
+- **[Connected Papers](https://www.connectedpapers.com/)** — visualizes relationships between papers and helps identify foundational and derivative work.
+- **[Elicit](https://elicit.com/)** — generates a literature matrix for paper discovery and produces summaries with real citations. Its standout feature is the literature matrix, where you add columns to extract specific information across papers. You can import papers by PDF upload or by connecting Zotero, run analyses over them, and limit results to a chosen publication-year range.
+
+*For reading and summarizing individual papers:*
+
+- **ChatGPT Projects**, **Claude Projects**, and **[NotebookLM](https://notebooklm.google.com/)** — useful for working through individual papers. I use them to summarize methodology, extract parameter values, compare assumptions across studies, and identify limitations.
+
 ### A note on limitations
 
-AI-generated summaries should always be checked against the original paper. Models can miss methodological nuances, misinterpret results, or hallucinate findings. The risk is highest exactly where it matters most: the assumptions, caveats, and subtle design choices that determine whether a study's conclusions hold. Use AI to read faster, not to avoid reading.
+AI-generated summaries should always be checked against the original paper. Models can miss methodological nuances, misinterpret results, or hallucinate findings. The risk is highest exactly where it matters most: the assumptions, caveats, and subtle design choices that determine whether a study's conclusions hold. In practice, always verify any extracted information against the source before citing it or using it in a model. Use AI to read faster, not to avoid reading.
 
 ---
 
