@@ -35,6 +35,10 @@ If you're looking for a practical starting point to explore what AI tools are av
 
 - Georgetown University Library. [AI Tools for Research](https://guides.library.georgetown.edu/ai/tools).
 
+Beyond these external resources, I've started writing my own practical guide on how I actually use AI in my day-to-day research. It covers workflows for literature review and agentic coding in computational epidemiology, along with an accompanying example repository.
+
+- [Using AI in Research](/resources/ai-in-research/) — my personal, evolving guide.
+
 ## Academic Writing
 
 My colleague Stephen Kissler has put together an excellent guide on writing academic manuscripts, covering everything from structuring a paper to navigating the revision process.

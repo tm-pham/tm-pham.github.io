@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I'm Mui. I’m an infectious disease modeler, and I like working through complex problems with quantitative tools in the hope of making the world a little better. I was born in Vietnam, grew up in Dresden, Germany, and have lived in the Netherlands, the UK, and now the United States. My work sits at the intersection of epidemiology, statistics, and public health, with a particular focus on antimicrobial resistance - how it emerges, how it spreads, and how we might slow it down through better decisions at both the clinical and population level. 
 
-I’m enthusiastic about the responsible use of AI, and I’ve been incorporating AI-assisted workflows into my own research. I think a lot about how these tools are changing the way we work and teach, and how we can adopt them thoughtfully — you can read more about this on my [Research Practice](/resources/research-practice/) page.
+I’m enthusiastic about the responsible use of AI, and I’ve been incorporating AI-assisted workflows into my own research. I think a lot about how these tools are changing the way we work and teach, and how we can adopt them thoughtfully. You can read more about this on my [Research Practice](/resources/research-practice/) page.
 
 I’m currently a Postdoctoral Research Associate at the University of Utah, where I work with Katharine Walter on developing statistical models to study the impact of ambient air pollution on tuberculosis and to estimate transmission bottlenecks for TB.
 
