@@ -37,14 +37,14 @@ I group these by where they help most in the process.
 
 *For mapping a field and discovering papers:*
 
-- **Perplexity Deep Research** and **ChatGPT Deep Research** — useful for generating an initial map of a field and surfacing key terminology, methods, and debates. Hallucination can be a real problem, so I explicitly ask the model to back every claim with a real paper and to confirm that each source it cites actually exists.
+- **[Perplexity](https://www.perplexity.ai/) Deep Research** and **[ChatGPT](https://chatgpt.com/) Deep Research** — useful for generating an initial map of a field and surfacing key terminology, methods, and debates. Hallucination can be a real problem, so I explicitly ask the model to back every claim with a real paper and to confirm that each source it cites actually exists.
 - **[ResearchRabbit](https://www.researchrabbit.ai/)** — excellent for citation-network exploration and discovering related papers, authors, and research clusters.
 - **[Connected Papers](https://www.connectedpapers.com/)** — visualizes relationships between papers and helps identify foundational and derivative work.
 - **[Elicit](https://elicit.com/)** — generates a literature matrix for paper discovery and produces summaries with real citations. Its standout feature is the literature matrix, where you add columns to extract specific information across papers. You can import papers by PDF upload or by connecting Zotero, run analyses over them, and limit results to a chosen publication-year range.
 
 *For reading and summarizing individual papers:*
 
-- **ChatGPT Projects**, **Claude Projects**, and **[NotebookLM](https://notebooklm.google.com/)** — useful for working through individual papers. I use them to summarize methodology, extract parameter values, compare assumptions across studies, and identify limitations.
+- **[ChatGPT](https://chatgpt.com/) Projects**, **[Claude](https://claude.ai/) Projects**, and **[NotebookLM](https://notebooklm.google.com/)** — useful for working through individual papers. I use them to summarize methodology, extract parameter values, compare assumptions across studies, and identify limitations.
 
 ### A note on limitations
 
