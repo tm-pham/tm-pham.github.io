@@ -114,4 +114,4 @@ To make this concrete, I'm putting together a fully documented example that walk
 - validation procedures
 - reproducible execution
 
-**GitHub Repository:** *coming soon.*
+**GitHub Repository:** [tm-pham/tb-incidence-brazil-stan](https://github.com/tm-pham/tb-incidence-brazil-stan)
