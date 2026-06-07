@@ -24,7 +24,7 @@ Using clinical and genomic data from the US Veterans Affairs Healthcare System (
 **Selected publications:**
 
 - Pham TM et al. (2024). Trends in infection incidence and antimicrobial resistance in the US Veterans Affairs Healthcare System: a nationwide retrospective cohort study (2007–22). *The Lancet Infectious Diseases*. [DOI: 10.1016/S1473-3099(24)00416-X](https://doi.org/10.1016/S1473-3099(24)00416-X)
-- Pham TM et al. (2025). Antimicrobial selection for resistance in four major pathogens in the US Veterans Affairs Healthcare System, 2007–2021. *Preprint*. [DOI: 10.1101/2025.03.12.25323875](https://doi.org/10.1101/2025.03.12.25323875)
+- Pham TM et al. (2025). Antimicrobial selection for resistance in four major pathogens in the US Veterans Affairs Healthcare System, 2007–2021. *Accepted for publication in The Lancet Microbe*. [DOI: 10.1101/2025.03.12.25323875](https://doi.org/10.1101/2025.03.12.25323875)
 - Pham TM et al. (in preparation). Trends in incidence and resistance for five major causes of bacteremia in a Canadian metropolitan area, 2006–22.
 
 ---
