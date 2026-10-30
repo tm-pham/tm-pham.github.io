@@ -241,8 +241,8 @@ h2::after {
 body.with-profile #title-block-header { display: none; }
 .mp-layout {
   display: grid;
-  grid-template-columns: 220px minmax(0, 1fr);
-  gap: 56px;
+  grid-template-columns: 150px minmax(0, 1fr);
+  gap: 48px;
   align-items: start;
   padding-top: 40px;
 }
@@ -251,22 +251,22 @@ body.with-profile #title-block-header { display: none; }
 .mp-profile {
   position: sticky;
   top: 88px;
-  font-size: 0.95rem;
+  font-size: 0.82rem;
   .mp-profile__img {
     display: block;
-    width: 100%;
+    width: 104px;
     aspect-ratio: 4 / 5;
     object-fit: cover;
     border-radius: 3px;
     border: 1px solid #E8DFD6;
-    padding: 6px;
+    padding: 4px;
     background: #fff;
   }
   p { margin: 0; }
-  .mp-profile__id { margin: 16px 0 14px; }
-  .mp-profile__name { display: block; font-family: $headings-font-family; font-weight: 700; font-size: 1.35rem; color: $ink; text-decoration: none; }
+  .mp-profile__id { margin: 10px 0 10px; }
+  .mp-profile__name { display: block; font-family: $headings-font-family; font-weight: 700; font-size: 1.05rem; color: $ink; text-decoration: none; }
   .mp-profile__role { color: $muted; }
-  ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 9px; }
+  ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 5px; }
   li { color: $ink; }
   a { color: $ink; text-decoration: none; }
   a:hover { color: $link-color; }
@@ -282,12 +282,13 @@ body.with-profile #title-block-header { display: none; }
     gap: 12px 16px;
     padding-bottom: 20px;
     border-bottom: 1px solid #E8DFD6;
-    > p:first-child { flex: 0 0 72px; }
+    > p:first-child { flex: 0 0 56px; }
+    .mp-profile__img { width: 56px; }
     .mp-profile__img { padding: 3px; }
     .mp-profile__id { margin: 0; flex: 1 1 0; min-width: 0; }
     ul { flex: 1 0 100%; flex-direction: row; flex-wrap: wrap; gap: 6px 14px; font-size: 0.85rem; }
     li { white-space: nowrap; }
-    li:nth-child(-n+2) { display: none; }
+    li:first-child { display: none; }
   }
 }
 
