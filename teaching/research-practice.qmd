@@ -1,10 +1,19 @@
 ---
 title: "Research Practice"
 toc: true
-toc-location: right
+toc-location: body
+page-layout: full
+body-classes: with-profile
 ---
 
+::::::: mp-layout
+{{< include /_profile.qmd >}}
+
+:::::: mp-main
+<h1 class="mp-title">Research Practice</h1>
+
 <p class="mp-eyebrow"><a href="index.qmd">← Teaching</a></p>
+
 Resources on the "how" of doing science day to day: navigating AI tools thoughtfully, improving your writing, giving better talks, and staying organized.
 
 
@@ -57,3 +66,5 @@ There's no shortage of opinions about the "best" tools for note-taking and organ
 - **[Notion](https://www.notion.so/)** and **[Obsidian](https://obsidian.md/)** for note-taking and organization
 - **[GitHub](https://github.com/)** for code and project management
 - **[Zotero](https://www.zotero.org/)** and **[Mendeley](https://www.mendeley.com/)** for reference management
+::::::
+:::::::

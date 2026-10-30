@@ -1,6 +1,14 @@
 ---
 title: "Photography"
+page-layout: full
+body-classes: with-profile
 ---
+
+::::::: mp-layout
+{{< include /_profile.qmd >}}
+
+:::::: mp-main
+<h1 class="mp-title">Photography</h1>
 
 When I'm not modeling, I'm usually outside: climbing, hiking, or chasing the light in canyon country. Click a photo to see it full size.
 
@@ -21,3 +29,5 @@ When I'm not modeling, I'm usually outside: climbing, hiking, or chasing the lig
 ![Badlands, Spain](images/photos/badlands.webp){group="photos" fig-alt="Eroded badlands under a clear sky"}
 
 :::
+::::::
+:::::::

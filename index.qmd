@@ -10,7 +10,7 @@ description: "Infectious disease modeler at the University of Utah working on an
 <section class="mp-hero">
   <div class="mp-hero__panel">
     <div class="mp-hero__id">
-      <img src="images/mui-portrait.webp" alt="Portrait of Mui Pham">
+      <img src="images/mui-portrait-rect.webp" alt="Portrait of Mui Pham">
       <div>
         <div class="mp-hero__name">Mui Pham</div>
         <div class="mp-label">Postdoctoral Research Associate<br>Division of Epidemiology<br>University of Utah</div>

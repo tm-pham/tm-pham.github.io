@@ -1,6 +1,14 @@
 ---
 title: "Publications"
+page-layout: full
+body-classes: with-profile
 ---
+
+::::::: mp-layout
+{{< include /_profile.qmd >}}
+
+:::::: mp-main
+<h1 class="mp-title">Publications</h1>
 
 <p class="mp-eyebrow"><a href="index.qmd">← Research</a></p>
 
@@ -81,3 +89,5 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=IRwXHd8AAAAJ&
 <li><span class="t">Tracking <em>Pseudomonas aeruginosa</em> transmissions due to environmental contamination after discharge in ICUs using mathematical models</span><span class="a"><b>Pham TM</b>, Kretzschmar M, Bertrand X, Bootsma M, Consortium CM</span><br><span class="j">PLOS Computational Biology</span>, 15: e1006697 · <a class="doi" href="https://doi.org/10.1371/journal.pcbi.1006697">doi:10.1371/journal.pcbi.1006697</a></li>
 </ul>
 ```
+::::::
+:::::::

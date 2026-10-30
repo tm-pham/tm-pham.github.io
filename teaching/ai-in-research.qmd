@@ -1,10 +1,19 @@
 ---
 title: "Using AI in Research"
 toc: true
-toc-location: right
+toc-location: body
+page-layout: full
+body-classes: with-profile
 ---
 
+::::::: mp-layout
+{{< include /_profile.qmd >}}
+
+:::::: mp-main
+<h1 class="mp-title">Using AI in Research</h1>
+
 <p class="mp-eyebrow"><a href="index.qmd">← Teaching</a></p>
+
 This is my personal, evolving guide to using AI in research: practical workflows for literature review and agentic coding in computational epidemiology, with an accompanying example repository. It reflects how I actually work, not a definitive prescription. The tools are changing quickly, and so is this page.
 
 A principle runs through everything below: AI can accelerate the work, but scientific judgment and validity remain the responsibility of the researcher. The goal is to use these tools deliberately, in ways that strengthen rather than shortcut the reasoning that makes research trustworthy.
@@ -112,3 +121,5 @@ To make this concrete, I'm putting together a fully documented example that walk
 - reproducible execution
 
 **GitHub Repository:** [tm-pham/tb-incidence-brazil-stan](https://github.com/tm-pham/tb-incidence-brazil-stan)
+::::::
+:::::::
