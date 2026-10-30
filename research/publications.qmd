@@ -1,0 +1,83 @@
+---
+title: "Publications"
+---
+
+<p class="mp-eyebrow"><a href="index.qmd">← Research</a></p>
+
+Also on [Google Scholar](https://scholar.google.com/citations?user=IRwXHd8AAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0001-6748-2479). \* denotes equal contribution.
+
+## Under review and in preparation
+
+```{=html}
+<ul class="mp-pubs">
+<li><span class="t">Impact of wildfire-related fine particulate matter on tuberculosis notifications in Brazil: a nationwide panel study, 2003–2023</span><span class="a"><b>Pham TM</b>, Mendonça T, Zhang Y, Mallia D, Croda J, Cohen T, Andrews J, Réquia WJ, Walter KS</span><br><span class="j">medRxiv</span>, under review · <a class="doi" href="https://doi.org/10.64898/2026.07.01.26356762">doi:10.64898/2026.07.01.26356762</a></li>
+<li><span class="t">Trends in incidence and resistance for five major causes of bacteremia in a Canadian metropolitan area, 2006–22: a genomic and antibiotic use cohort study</span><span class="a"><b>Pham TM</b> et al.</span><br><span class="j">medRxiv</span>, under review · <a class="doi" href="https://doi.org/10.64898/2026.08.27.26361471">doi:10.64898/2026.08.27.26361471</a></li>
+<li><span class="t">Transmission or importation? Using SARS-CoV-2 genomics to guide infection control protocols in the NBA</span><span class="a"><b>Pham TM</b> et al.</span><br>In preparation</li>
+</ul>
+```
+
+## Published
+
+<h3 class="mp-year">2026</h3>
+
+```{=html}
+<ul class="mp-pubs">
+<li><span class="t">Antimicrobial selection and multidrug resistance in four major pathogens in the US Veterans Affairs health-care system: a multicentre, retrospective, cohort study</span><span class="a"><b>Pham TM</b>, Zhang Y, Nevers M, Li H, Khader K, Grad YH, Samore M, Lipsitch M</span><br><span class="j">The Lancet Microbe</span>, 7: 101445 · <a class="doi" href="https://doi.org/10.1016/j.lanmic.2026.101445">doi:10.1016/j.lanmic.2026.101445</a></li>
+</ul>
+```
+
+<h3 class="mp-year">2024</h3>
+
+```{=html}
+<ul class="mp-pubs">
+<li><span class="t">Conference report of the 2024 Antimicrobial Resistance Meeting</span><span class="a">Chong CE, <b>Pham TM</b>, Carey ME, et al.</span><br><span class="j">npj Antimicrobials and Resistance</span>, 2: 43 · <a class="doi" href="https://doi.org/10.1038/s44259-024-00058-z">doi:10.1038/s44259-024-00058-z</a></li>
+<li><span class="t">Trends in infection incidence and antimicrobial resistance in the US Veterans Affairs Healthcare System: a nationwide retrospective cohort study (2007–22)</span><span class="a"><b>Pham TM</b>, Zhang Y, Nevers M, Li H, Khader K, Grad YH, Lipsitch M, Samore M</span><br><span class="j">The Lancet Infectious Diseases</span>, 24: 1333–1346 · <a class="doi" href="https://doi.org/10.1016/s1473-3099(24)00416-x">doi:10.1016/s1473-3099(24)00416-x</a></li>
+</ul>
+```
+
+<h3 class="mp-year">2023</h3>
+
+```{=html}
+<ul class="mp-pubs">
+<li><span class="t">The burden and dynamics of hospital-acquired SARS-CoV-2 in England</span><span class="a">Cooper BS, Evans S, Jafari Y, …, <b>Pham TM</b>, et al.</span><br><span class="j">Nature</span>, 623: 132–138 · <a class="doi" href="https://doi.org/10.1038/s41586-023-06634-z">doi:10.1038/s41586-023-06634-z</a></li>
+</ul>
+```
+
+<h3 class="mp-year">2022</h3>
+
+```{=html}
+<ul class="mp-pubs">
+<li><span class="t">Effectiveness of infection prevention and control interventions, excluding personal protective equipment, to prevent nosocomial transmission of SARS-CoV-2: a systematic review and call for action</span><span class="a">Jafari Y, Yin M, Lim C, …, <b>Pham TM</b>, et al.</span><br><span class="j">Infection Prevention in Practice</span>, 4: 100192 · <a class="doi" href="https://doi.org/10.1016/j.infpip.2021.100192">doi:10.1016/j.infpip.2021.100192</a></li>
+<li><span class="t">Routes of transmission of VIM-positive <em>Pseudomonas aeruginosa</em> in the adult intensive care unit: analysis of 9 years of surveillance at a university hospital using a mathematical model</span><span class="a"><b>Pham TM</b>, Büchler AC, Voor in ‘t holt AF, Severin JA, Bootsma MCJ, Gommers D, Kretzschmar ME, Vos MC</span><br><span class="j">Antimicrobial Resistance &amp; Infection Control</span>, 11: 55 · <a class="doi" href="https://doi.org/10.1186/s13756-022-01095-x">doi:10.1186/s13756-022-01095-x</a></li>
+<li><span class="t">The contribution of hospital-acquired infections to the COVID-19 epidemic in England in the first half of 2020</span><span class="a">Knight GM, <b>Pham TM</b>, Stimson J, et al.</span><br><span class="j">BMC Infectious Diseases</span>, 22: 556 · <a class="doi" href="https://doi.org/10.1186/s12879-022-07490-4">doi:10.1186/s12879-022-07490-4</a></li>
+<li><span class="t">The effect of hand hygiene frequency on reducing acute respiratory infections in the community: a meta-analysis</span><span class="a">Mo Y, <b>Pham TM</b>, Lim C, Horby P, Stewardson AJ, Harbarth S, Scott GM, Cooper BS</span><br><span class="j">Epidemiology and Infection</span>, 150: e79 · <a class="doi" href="https://doi.org/10.1017/s0950268822000516">doi:10.1017/s0950268822000516</a></li>
+<li><span class="t">The importance of sustained compliance with physical distancing during COVID-19 vaccination rollout</span><span class="a">Teslya A, Rozhnova G, <b>Pham TM</b>, van Wees DA, Nunner H, Godijk NG, Bootsma M, Kretzschmar ME</span><br><span class="j">Communications Medicine</span>, 2: 146 · <a class="doi" href="https://doi.org/10.1038/s43856-022-00207-3">doi:10.1038/s43856-022-00207-3</a></li>
+<li><span class="t">The potential impact of intensified community hand hygiene interventions on respiratory tract infections: a modelling study</span><span class="a"><b>Pham TM</b>, Yin M, Cooper BS</span><br><span class="j">Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences</span>, 478: 20210746 · <a class="doi" href="https://doi.org/10.1098/rspa.2021.0746">doi:10.1098/rspa.2021.0746</a></li>
+</ul>
+```
+
+<h3 class="mp-year">2021</h3>
+
+```{=html}
+<ul class="mp-pubs">
+<li><span class="t">Interventions to control nosocomial transmission of SARS-CoV-2: a modelling study</span><span class="a"><b>Pham TM</b>, Tahir H, van de Wijgert JHHM, Van der Roest BR, Ellerbroek P, Bonten MJM, Bootsma MCJ, Kretzschmar ME</span><br><span class="j">BMC Medicine</span>, 19: 211 · <a class="doi" href="https://doi.org/10.1186/s12916-021-02060-y">doi:10.1186/s12916-021-02060-y</a></li>
+<li><span class="t">Tweede rapport modellering SARS-CoV-2 infecties in het voortgezet onderwijs</span><span class="a"><b>Pham TM</b>, Westerhof I, Rozhnova G, Bootsma M, Kretzschmar M, Bruijning-Verhagen P</span><br><span class="j">Report to the Dutch Ministry of Education, UMC Utrecht</span> · <a class="doi" href="https://www.rijksoverheid.nl/documenten/rapporten/2021/07/07/tweede-rapport-modellering-sars-cov-2-infecties-in-het-voortgezet-onderwijs">rijksoverheid.nl</a></li>
+</ul>
+```
+
+<h3 class="mp-year">2020</h3>
+
+```{=html}
+<ul class="mp-pubs">
+<li><span class="t">Impact of self-imposed prevention measures and short-term government-imposed social distancing on mitigating and delaying a COVID-19 epidemic: A modelling study</span><span class="a">Teslya A*, <b>Pham TM*</b>, Godijk NG*, Kretzschmar ME, Bootsma MCJ, Rozhnova G</span><br><span class="j">PLOS Medicine</span>, 17: e1003166 · <a class="doi" href="https://doi.org/10.1371/journal.pmed.1003166">doi:10.1371/journal.pmed.1003166</a></li>
+</ul>
+```
+
+<h3 class="mp-year">2019</h3>
+
+```{=html}
+<ul class="mp-pubs">
+<li><span class="t">Inference for Ordinal Log-Linear Models Based on Algebraic Statistics</span><span class="a"><b>Pham TM</b>, Kateri M</span><br><span class="j">Journal of Algebraic Statistics</span>, 10: 30–50 · <a class="doi" href="https://doi.org/10.18409/jas.v10i1.74">doi:10.18409/jas.v10i1.74</a></li>
+<li><span class="t">Tracking <em>Pseudomonas aeruginosa</em> transmissions due to environmental contamination after discharge in ICUs using mathematical models</span><span class="a"><b>Pham TM</b>, Kretzschmar M, Bertrand X, Bootsma M, Consortium CM</span><br><span class="j">PLOS Computational Biology</span>, 15: e1006697 · <a class="doi" href="https://doi.org/10.1371/journal.pcbi.1006697">doi:10.1371/journal.pcbi.1006697</a></li>
+</ul>
+```

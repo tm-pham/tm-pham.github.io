@@ -1,0 +1,61 @@
+---
+title: "Curriculum Vitae"
+---
+
+<p><a class="mp-button" href="files/Pham_CV.pdf">Download the full CV (PDF)</a></p>
+
+Infectious disease modeler developing data-driven models to inform public health policy. I led modeling that informed COVID-19 school-reopening strategies in the Netherlands and contributed to the pandemic response in the United Kingdom. My work integrates genomic, environmental, and clinical data across diverse health systems, including national tuberculosis surveillance in Brazil and U.S. Veterans Affairs antimicrobial resistance surveillance.
+
+## Research experience
+
+<ul class="mp-timeline">
+  <li><span class="when">Sept 2025 – now</span><span class="what"><strong>Postdoctoral Research Associate</strong><span>University of Utah, Salt Lake City · Advisor: Katharine Walter</span></span></li>
+  <li><span class="when">Mar 2022 – Aug 2025</span><span class="what"><strong>Postdoctoral Fellow</strong><span>Harvard T.H. Chan School of Public Health, Boston · Advisors: Marc Lipsitch, Yonatan Grad</span></span></li>
+  <li><span class="when">Mar – Oct 2021</span><span class="what"><strong>Infectious Disease Modeler</strong><span>Ministry of Education, the Netherlands · Advisor: Patricia Bruijning-Verhagen</span></span></li>
+  <li><span class="when">Feb – Aug 2020</span><span class="what"><strong>Visiting Researcher</strong><span>University of Oxford · Advisor: Ben Cooper</span></span></li>
+  <li><span class="when">Oct 2014 – Feb 2016</span><span class="what"><strong>Research Assistant</strong><span>RWTH Aachen University · randomization methods for rare-disease trials (R package randomizeR)</span></span></li>
+</ul>
+
+## Education
+
+<ul class="mp-timeline">
+  <li><span class="when">2017 – 2022</span><span class="what"><strong>Ph.D., Infectious Disease Epidemiology</strong><span>University Medical Center Utrecht · Thesis: <em>Contagions under control: Mathematical models to inform infectious disease prevention and control</em></span></span></li>
+  <li><span class="when">2017 – 2022</span><span class="what"><strong>M.Sc., Epidemiology</strong><span>Utrecht University</span></span></li>
+  <li><span class="when">2013 – 2016</span><span class="what"><strong>M.Sc., Mathematics</strong><span>RWTH Aachen · Thesis: <em>Algebraic Statistics for Ordinal Log-Linear Models</em></span></span></li>
+  <li><span class="when">2010 – 2013</span><span class="what"><strong>B.Sc., Mathematics</strong><span>RWTH Aachen · Thesis: <em>Algebraic attacks on stream ciphers</em></span></span></li>
+</ul>
+
+## Awards and grants
+
+<ul class="mp-timeline">
+  <li><span class="when">Sept 2026</span><span class="what"><strong>Best Oral Presentation Award</strong><span>National Postdoctoral Appreciation Week Research Symposium, University of Utah</span></span></li>
+  <li><span class="when">July 2026</span><span class="what"><strong>Halloran Scholarship</strong><span>Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)</span></span></li>
+  <li><span class="when">2020</span><span class="what"><strong>SLAS Visiting Graduate Researcher Program Grant</strong><span>University of Oxford</span></span></li>
+  <li><span class="when">2016</span><span class="what"><strong>PROMOS scholarship</strong><span>Research internship in Québec City, Canada</span></span></li>
+  <li><span class="when">2014 – 2016</span><span class="what"><strong>Friedrich Ebert Foundation and Deutschlandstipendium scholarships</strong><span>Master's degree</span></span></li>
+  <li><span class="when">2013 – 2014</span><span class="what"><strong>DAAD scholarship</strong><span>Erasmus exchange year in London</span></span></li>
+</ul>
+
+## Selected presentations
+
+<ul class="mp-timeline">
+  <li><span class="when">Sept 2026</span><span class="what"><strong>Oral presentation</strong><span>NPAW Postdoc Research Symposium, University of Utah · Wildfire-related fine particulate matter and tuberculosis notifications in Brazil</span></span></li>
+  <li><span class="when">Jun 2026</span><span class="what"><strong>Poster</strong><span>Society for Epidemiologic Research · Wildfire-related fine particulate matter and tuberculosis notifications in Brazil</span></span></li>
+  <li><span class="when">Mar 2024</span><span class="what"><strong>Oral presentation</strong><span>Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies (Wellcome Connecting Science)</span></span></li>
+  <li><span class="when">Oct 2023</span><span class="what"><strong>Rapid-fire poster</strong><span>IDWeek · AMR trends in the US Veterans Affairs Healthcare System</span></span></li>
+  <li><span class="when">Jun 2022</span><span class="what"><strong>Invited talk</strong><span>Preparing for the Next Pandemic, Banff International Research Station · Controlling COVID-19 in secondary schools</span></span></li>
+</ul>
+
+## In the media
+
+- Kahn K. [In-Hospital Infections, Antimicrobial Resistance Declined Over 13 Years](https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/111543). *MedPage Today*, Aug 2024.
+- Emerson L. [New Study Warns About Increased Antibiotic Resistance Against Third-Generation Broad-Spectrum Antibiotics in VA Facilities](https://www.usmedicine.com/clinical-topics/infectious-disease/new-study-warns-about-increased-antibiotic-resistance-against-third-generation-broad-spectrum-antibiotics-in-va-facilities/). *U.S. Medicine*, Oct 2024.
+- Dall C. [Study finds significant pre-COVID declines in antibiotic-resistant infections at VA hospitals](https://www.cidrap.umn.edu/antimicrobial-stewardship/study-finds-significant-pre-covid-declines-antibiotic-resistant). *CIDRAP*, Aug 2024.
+
+## Service and outreach
+
+- **Speaker**, Pint of Science Boston (2025)
+- **Academic Committee Member**, Workshop to Increase Diversity in Mathematical Modeling and Public Health, Harvard T.H. Chan School of Public Health (2024–2025)
+- **Organizing Committee Member**, ID Epi Spring Seminar, Harvard T.H. Chan School of Public Health (2023)
+- **Ph.D. Council Member**, Graduate School of Life Sciences, Utrecht (2018–2022)
+- **Curriculum Volunteer**, Kiron Open Higher Education (2015–2017)

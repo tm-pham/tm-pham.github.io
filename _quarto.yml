@@ -1,0 +1,65 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - files/
+    - images/
+
+website:
+  title: "Mui Pham"
+  site-url: "https://tm-pham.github.io"
+  description: "Mui Pham — infectious disease modeler at the University of Utah working on antimicrobial resistance, tuberculosis and genomic epidemiology."
+  favicon: images/mui-portrait.webp
+  image: images/photos/switchbacks.webp
+  open-graph: true
+  twitter-card: true
+  page-navigation: false
+  navbar:
+    title: "Mui Pham"
+    right:
+      - text: "About"
+        menu:
+          - text: "About me"
+            href: index.qmd
+          - text: "CV"
+            href: cv.qmd
+      - text: "Research"
+        menu:
+          - text: "Research overview"
+            href: research/index.qmd
+          - text: "Publications"
+            href: research/publications.qmd
+      - text: "Teaching"
+        menu:
+          - text: "Teaching & mentoring"
+            href: teaching/index.qmd
+          - text: "Research practice"
+            href: teaching/research-practice.qmd
+          - text: "Using AI in research"
+            href: teaching/ai-in-research.qmd
+          - text: "Methods reading list"
+            href: teaching/methods.qmd
+      - text: "Photography"
+        href: photography.qmd
+  page-footer:
+    left: "© 2026 Mui Pham"
+    right:
+      - text: "Google Scholar"
+        href: https://scholar.google.com/citations?user=IRwXHd8AAAAJ&hl=en
+      - text: "ORCID"
+        href: https://orcid.org/0000-0001-6748-2479
+      - text: "GitHub"
+        href: https://github.com/tm-pham
+      - text: "Bluesky"
+        href: https://bsky.app/profile/tmpham.bsky.social
+      - text: "LinkedIn"
+        href: https://www.linkedin.com/in/tm-pham4984
+
+format:
+  html:
+    theme: [cosmo, styles/theme.scss]
+    lightbox: true
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    title-block-banner: false

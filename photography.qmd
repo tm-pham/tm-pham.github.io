@@ -1,0 +1,23 @@
+---
+title: "Photography"
+---
+
+When I'm not modeling, I'm usually outside: climbing, hiking, or chasing the light in canyon country. Click a photo to see it full size.
+
+::: mp-gallery
+
+![Dead Horse Point, Utah](images/photos/canyon-river.webp){group="photos" fig-alt="Sunrise over the Colorado River gooseneck seen from a canyon rim"}
+
+![Canyon sunset, Moab, Utah](images/photos/canyon-sunset.webp){group="photos" fig-alt="The sun setting behind layered sandstone mesas"}
+
+![Shafer Trail, Utah](images/photos/switchbacks.webp){group="photos" fig-alt="Switchback road descending a red sandstone canyon wall"}
+
+![Mountain goats in an alpine meadow](images/photos/mountain-goats.webp){group="photos" fig-alt="Two mountain goats grazing below a rocky peak"}
+
+![Sheep below a butte, Spain](images/photos/sheep-butte.webp){group="photos" fig-alt="A flock of sheep crossing grassland below a flat-topped butte"}
+
+![Flock in the dust at sunset, Spain](images/photos/sheep-dust.webp){group="photos" fig-alt="A flock of sheep moving through dust at sunset"}
+
+![Badlands, Spain](images/photos/badlands.webp){group="photos" fig-alt="Eroded badlands under a clear sky"}
+
+:::

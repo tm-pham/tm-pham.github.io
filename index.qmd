@@ -1,0 +1,75 @@
+---
+title: "Mui Pham"
+pagetitle: "Public Health Analytics and Modeling"
+page-layout: custom
+body-classes: home
+description: "Infectious disease modeler at the University of Utah working on antimicrobial resistance, tuberculosis and genomic epidemiology."
+---
+
+```{=html}
+<section class="mp-hero">
+  <div class="mp-hero__panel">
+    <div class="mp-hero__id">
+      <img src="images/mui-portrait.webp" alt="Portrait of Mui Pham">
+      <div>
+        <div class="mp-hero__name">Mui Pham</div>
+        <div class="mp-label">Postdoctoral Research Associate<br>Division of Epidemiology<br>University of Utah</div>
+      </div>
+    </div>
+
+    <div class="mp-hero__body">
+      <h1><b>P</b>ublic<br><b>H</b>ealth<br><b>A</b>nalytics and<br><b>M</b>odeling</h1>
+      <p class="mp-hero__lede">I’m an infectious disease modeler, and I like working through complex problems with quantitative tools in the hope of making the world a little better.</p>
+      <svg class="mp-hero__trace" role="img" aria-label="MCMC trace plot of two chains mixing around a common value" viewBox="0 0 464 80">
+        <line x1="0" y1="40" x2="464" y2="40" stroke="#7A5153" stroke-dasharray="3 4"></line>
+        <polyline fill="none" stroke="#C9713F" stroke-width="1.4" points="0,72 12,61 24,65 36,50 48,45 60,38 72,47 84,33 96,42 108,35 120,46 132,39 144,30 156,43 168,37 180,48 192,34 204,41 216,38 228,29 240,44 252,39 264,47 276,35 288,40 300,32 312,43 324,38 336,46 348,36 360,41 372,31 384,42 396,39 408,47 420,35 432,40 444,37 456,43 464,39"></polyline>
+        <polyline fill="none" stroke="#7E9479" stroke-width="1.4" points="0,8 12,18 24,15 36,28 48,35 60,42 72,32 84,45 96,38 108,47 120,35 132,42 144,49 156,37 168,44 180,34 192,46 204,39 216,43 228,50 240,37 252,41 264,33 276,45 288,39 300,48 312,36 324,42 336,35 348,44 360,38 372,48 384,39 396,41 408,34 420,45 432,39 444,43 456,37 464,40"></polyline>
+      </svg>
+    </div>
+
+    <nav class="mp-hero__links" aria-label="Profiles">
+      <a href="https://scholar.google.com/citations?user=IRwXHd8AAAAJ&amp;hl=en">Google Scholar</a>
+      <a href="https://orcid.org/0000-0001-6748-2479">ORCID</a>
+      <a href="https://github.com/tm-pham">GitHub</a>
+      <a href="https://bsky.app/profile/tmpham.bsky.social">Bluesky</a>
+      <a href="https://www.linkedin.com/in/tm-pham4984">LinkedIn</a>
+    </nav>
+  </div>
+
+  <figure class="mp-hero__photo">
+    <img src="images/photos/switchbacks.webp" alt="Switchback road descending a red sandstone canyon wall" fetchpriority="high">
+    <figcaption>Shafer Trail, UT</figcaption>
+  </figure>
+</section>
+```
+
+::: mp-wrap
+
+<p class="mp-eyebrow">About</p>
+
+## Hi, I'm Mui
+
+My work sits at the intersection of epidemiology, statistics, and public health, with a particular focus on antimicrobial resistance: how it emerges, how it spreads, and how we might slow it down through better decisions at both the clinical and population level.
+
+I'm currently a Postdoctoral Research Associate at the University of Utah, where I work with Katharine Walter on statistical models of how ambient air pollution affects tuberculosis, and on estimating transmission bottlenecks for TB.
+
+Previously, I was a Postdoctoral Fellow with Yonatan Grad and Marc Lipsitch at the Harvard T.H. Chan School of Public Health. There I studied the relationship between antibiotic use and antibiotic resistance, drawing on large-scale data from the U.S. Veterans Health Administration and Alberta Health Services in Canada. I also integrated epidemiological and genomic data to distinguish transmission from importation during real-time SARS-CoV-2 outbreak investigations, using surveillance and whole-genome sequencing data from the NBA Occupational Health Program.
+
+I completed my Ph.D. in February 2022 at the Julius Center for Health Sciences and Primary Care, University Medical Center Utrecht, supervised by Mirjam Kretzschmar, Martin Bootsma, and Ganna Rozhnova. My doctoral research developed mathematical models of pathogen transmission, focusing on *Pseudomonas aeruginosa* in intensive care units and SARS-CoV-2 in hospitals and secondary schools.
+
+I'm enthusiastic about the responsible use of AI, and I've been incorporating AI-assisted workflows into my own research. You can read more on my [Research Practice](teaching/research-practice.qmd) page.
+
+<ul class="mp-timeline">
+  <li><span class="when">2025 – now</span><span class="what"><strong>Postdoctoral Research Associate</strong><span>Division of Epidemiology, University of Utah</span></span></li>
+  <li><span class="when">2022 – 2025</span><span class="what"><strong>Postdoctoral Fellow</strong><span>Harvard T.H. Chan School of Public Health</span></span></li>
+  <li><span class="when">2017 – 2022</span><span class="what"><strong>Ph.D., Infectious Disease Epidemiology</strong><span>Julius Center, UMC Utrecht</span></span></li>
+  <li><span class="when">2010 – 2016</span><span class="what"><strong>B.Sc. and M.Sc., Mathematics</strong><span>RWTH Aachen</span></span></li>
+</ul>
+
+<p><a class="mp-button" href="cv.qmd">Full CV</a> &nbsp; <a class="mp-button mp-button--ghost" href="files/Pham_CV.pdf">Download PDF</a></p>
+
+## Outside of research
+
+I enjoy climbing, hiking, running, discussion nights, and Lindy Hop. I was born in Vietnam, grew up in Dresden, Germany, and have lived in the Netherlands, the UK, and now the United States. I tend to think of myself as a bit of a cultural potpourri, shaped by many places and communities. I'm drawn to community-centered projects, thoughtful conversations, and work that's grounded in curiosity, care, and connection. Some of the places I've been are on my [photography](photography.qmd) page.
+
+:::

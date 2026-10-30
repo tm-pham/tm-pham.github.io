@@ -1,0 +1,35 @@
+---
+title: "Teaching & mentoring"
+---
+
+<div class="mp-banner"><img src="../images/photos/badlands.webp" alt="Eroded badlands under a clear sky"></div>
+
+I enjoy teaching the practical side of quantitative research: writing code others can trust, using version control, and bringing genomic data into epidemiological analyses.
+
+## Courses
+
+<ul class="mp-timeline">
+  <li><span class="when">2025 – now</span><span class="what"><strong>Advanced Programming in Epidemiology</strong><span>Co-instructor, University of Utah. Efficient and ethical use of AI in research, functional and object-oriented programming, debugging, profiling, C++ integration with R, and parallel computing. <a href="https://github.com/UofUEpiBio/PHS7045-advanced-programming">Course materials</a></span></span></li>
+  <li><span class="when">2025</span><span class="what"><strong>Integrating genomic data into hospital outbreak analyses</strong><span>Short course I developed and taught at the Workshop to Increase Diversity in Mathematical Modeling and Public Health, Harvard</span></span></li>
+  <li><span class="when">2024</span><span class="what"><strong>Git version control for graduate researchers</strong><span>Co-led, Harvard T.H. Chan School of Public Health</span></span></li>
+  <li><span class="when">2017 – 2021</span><span class="what"><strong>Medical statistics</strong><span>Courses for medical and economics students, UMC Utrecht</span></span></li>
+  <li><span class="when">2013 – 2016</span><span class="what"><strong>Statistics</strong><span>Courses for medical and economics students, RWTH Aachen</span></span></li>
+</ul>
+
+## Mentoring
+
+- Mentored three undergraduate rotation students in tuberculosis epidemiology, University of Utah (2025–2026)
+- Led focus groups in pathogen genomics (University of Utah) and Bayesian statistics (Harvard)
+
+## Resources
+
+Over the years I've collected books, papers, tutorials, and tools that helped me grow as a researcher. These pages organize them and pass them on. They lean toward infectious disease modeling, epidemiological methods, and the practical side of academic life, and they're a work in progress. If you have suggestions, I'd love to hear from you.
+
+[**Research practice**](research-practice.qmd)
+: The "how" of doing science day to day: navigating AI tools thoughtfully, writing, giving talks, and staying organized.
+
+[**Using AI in research**](ai-in-research.qmd)
+: My personal, evolving guide to literature review and agentic coding workflows in computational epidemiology.
+
+[**Methods reading list**](methods.qmd)
+: Causal inference, Bayesian statistics, mathematical modeling, and coding.
