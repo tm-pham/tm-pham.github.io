@@ -2,13 +2,13 @@
 title: "Research"
 ---
 
-<div class="mp-banner"><img src="../images/photos/sheep-dust.webp" alt="A flock of sheep moving through dust at sunset"></div>
-
 My research sits at the intersection of infectious disease epidemiology, quantitative modeling, and genomics. I develop statistical and mechanistic models to understand how infections spread and how interventions can be designed to stop them, drawing on large-scale clinical, genomic, and environmental datasets.
 
 <p><a class="mp-button mp-button--ghost" href="publications.qmd">All publications</a></p>
 
 ::: mp-theme
+<div class="mp-theme__img"><img src="../images/photos/badlands.webp" alt="Eroded badlands under a clear sky" loading="lazy"></div>
+
 ### Antibiotic use and resistance
 
 <span class="mp-pill">antimicrobial resistance</span><span class="mp-pill">stewardship</span><span class="mp-pill">health-system data</span>
@@ -23,6 +23,8 @@ Understanding how antibiotic use drives resistance is essential for designing ef
 :::
 
 ::: mp-theme
+<div class="mp-theme__img"><img src="../images/photos/canyon-sunset.webp" alt="The sun setting behind layered sandstone mesas" loading="lazy"></div>
+
 ### Environmental exposures and tuberculosis
 
 <span class="mp-pill">air pollution</span><span class="mp-pill">panel regression</span><span class="mp-pill">tuberculosis</span>
@@ -35,6 +37,8 @@ At the University of Utah, I study how environmental factors shape infectious di
 :::
 
 ::: mp-theme
+<div class="mp-theme__img"><img src="../images/photos/canyon-river.webp" alt="Sunrise over the Colorado River gooseneck seen from a canyon rim" loading="lazy"></div>
+
 ### Transmission dynamics and genomic epidemiology
 
 <span class="mp-pill">mechanistic models</span><span class="mp-pill">Bayesian inference</span><span class="mp-pill">pathogen genomics</span>

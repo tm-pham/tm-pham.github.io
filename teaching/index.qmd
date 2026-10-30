@@ -2,7 +2,7 @@
 title: "Teaching & mentoring"
 ---
 
-<div class="mp-banner"><img src="../images/photos/badlands.webp" alt="Eroded badlands under a clear sky"></div>
+<div class="mp-banner"><img src="../images/photos/sheep-dust.webp" alt="A flock of sheep moving through dust at sunset"></div>
 
 I enjoy teaching the practical side of quantitative research: writing code others can trust, using version control, and bringing genomic data into epidemiological analyses.
 

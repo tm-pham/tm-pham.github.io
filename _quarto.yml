@@ -42,7 +42,7 @@ website:
       - text: "Photography"
         href: photography.qmd
   page-footer:
-    left: "© 2026 Mui Pham"
+    left: "© 2026 Mui Pham. All rights reserved."
     right:
       - text: "Google Scholar"
         href: https://scholar.google.com/citations?user=IRwXHd8AAAAJ&hl=en
