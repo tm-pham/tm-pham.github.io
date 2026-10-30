@@ -198,7 +198,7 @@ h2::after {
 
 // Banner photo at the top of section pages
 .mp-banner {
-  height: 260px;
+  height: clamp(220px, 34vw, 400px);
   border-radius: 6px;
   overflow: hidden;
   margin: 0 0 2rem;
