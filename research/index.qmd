@@ -7,7 +7,7 @@ My research sits at the intersection of infectious disease epidemiology, quantit
 <p><a class="mp-button mp-button--ghost" href="publications.qmd">All publications</a></p>
 
 ::: mp-theme
-<div class="mp-theme__img"><img src="../images/photos/badlands.webp" alt="Eroded badlands under a clear sky" loading="lazy"></div>
+<figure class="mp-theme__fig mp-theme__fig--photo"><img src="../images/photos/canyon-river.webp" alt="Sunrise over the Colorado River gooseneck seen from a canyon rim" loading="lazy"></figure>
 
 ### Antibiotic use and resistance
 
@@ -23,7 +23,7 @@ Understanding how antibiotic use drives resistance is essential for designing ef
 :::
 
 ::: mp-theme
-<div class="mp-theme__img"><img src="../images/photos/canyon-sunset.webp" alt="The sun setting behind layered sandstone mesas" loading="lazy"></div>
+<figure class="mp-theme__fig"><img src="../images/research/lung-brazil-smoke.webp" alt="Illustration of a lung with tuberculosis bacteria whose airway branches into a map of Brazil, with wildfire smoke rising above" loading="lazy"><figcaption>Illustration based on work by Chenyu Zhang, adapted with Claude.</figcaption></figure>
 
 ### Environmental exposures and tuberculosis
 
@@ -37,7 +37,7 @@ At the University of Utah, I study how environmental factors shape infectious di
 :::
 
 ::: mp-theme
-<div class="mp-theme__img"><img src="../images/photos/canyon-river.webp" alt="Sunrise over the Colorado River gooseneck seen from a canyon rim" loading="lazy"></div>
+<figure class="mp-theme__fig mp-theme__fig--photo"><img src="../images/research/badlands-phylogeny.webp" alt="A phylogenetic tree drawn over eroded badlands, its branches following the ridges down to coloured tips" loading="lazy"><figcaption>A phylogeny drawn over the ridges of eroded badlands.</figcaption></figure>
 
 ### Transmission dynamics and genomic epidemiology
 
