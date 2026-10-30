@@ -6,9 +6,10 @@ My research sits at the intersection of infectious disease epidemiology, quantit
 
 <p><a class="mp-button mp-button--ghost" href="publications.qmd">All publications</a></p>
 
-::: mp-theme
-<figure class="mp-theme__fig mp-theme__fig--photo"><img src="../images/photos/canyon-river.webp" alt="Sunrise over the Colorado River gooseneck seen from a canyon rim" loading="lazy"></figure>
+::::: mp-theme
+<figure class="mp-theme__fig mp-theme__fig--photo"><img src="../images/research/canyon-epicurve.webp" alt="An epidemic curve of bars rising over the Colorado River gooseneck at sunrise" loading="lazy"></figure>
 
+::: mp-theme__text
 ### Antibiotic use and resistance
 
 <span class="mp-pill">antimicrobial resistance</span><span class="mp-pill">stewardship</span><span class="mp-pill">health-system data</span>
@@ -21,10 +22,12 @@ Understanding how antibiotic use drives resistance is essential for designing ef
 - **Pham TM** et al. (2024). Trends in infection incidence and antimicrobial resistance in the US Veterans Affairs Healthcare System (2007–22). *The Lancet Infectious Diseases*. [doi:10.1016/S1473-3099(24)00416-X](https://doi.org/10.1016/S1473-3099(24)00416-X)
 - **Pham TM** et al. (2026). Trends in incidence and resistance for five major causes of bacteremia in a Canadian metropolitan area, 2006–22. *medRxiv*, under review. [doi:10.64898/2026.08.27.26361471](https://doi.org/10.64898/2026.08.27.26361471)
 :::
+:::::
 
-::: mp-theme
+::::: {.mp-theme .mp-theme--flip}
 <figure class="mp-theme__fig"><img src="../images/research/lung-brazil-smoke.webp" alt="Illustration of a lung with tuberculosis bacteria whose airway branches into a map of Brazil, with wildfire smoke rising above" loading="lazy"><figcaption>Illustration based on work by Chenyu Zhang, adapted with Claude.</figcaption></figure>
 
+::: mp-theme__text
 ### Environmental exposures and tuberculosis
 
 <span class="mp-pill">air pollution</span><span class="mp-pill">panel regression</span><span class="mp-pill">tuberculosis</span>
@@ -35,10 +38,12 @@ At the University of Utah, I study how environmental factors shape infectious di
 
 - **Pham TM** et al. (2026). Impact of wildfire-related fine particulate matter on tuberculosis notifications in Brazil: a nationwide panel study, 2003–2023. *medRxiv*, under review. [doi:10.64898/2026.07.01.26356762](https://doi.org/10.64898/2026.07.01.26356762)
 :::
+:::::
 
-::: mp-theme
+::::: mp-theme
 <figure class="mp-theme__fig mp-theme__fig--photo"><img src="../images/research/badlands-phylogeny.webp" alt="A phylogenetic tree drawn over eroded badlands, its branches following the ridges down to coloured tips" loading="lazy"><figcaption>A phylogeny drawn over the ridges of eroded badlands.</figcaption></figure>
 
+::: mp-theme__text
 ### Transmission dynamics and genomic epidemiology
 
 <span class="mp-pill">mechanistic models</span><span class="mp-pill">Bayesian inference</span><span class="mp-pill">pathogen genomics</span>
@@ -54,3 +59,4 @@ My PhD focused on nosocomial transmission of *Pseudomonas aeruginosa* in intensi
 - Teslya A\*, **Pham TM**\* et al. (2020). Impact of self-imposed prevention measures and short-term government-imposed social distancing on mitigating and delaying a COVID-19 epidemic. *PLOS Medicine*. [doi:10.1371/journal.pmed.1003166](https://doi.org/10.1371/journal.pmed.1003166)
 - **Pham TM** et al. (2022). Routes of transmission of VIM-positive *Pseudomonas aeruginosa* in the adult intensive care unit. *Antimicrobial Resistance & Infection Control*. [doi:10.1186/s13756-022-01095-x](https://doi.org/10.1186/s13756-022-01095-x)
 :::
+:::::
