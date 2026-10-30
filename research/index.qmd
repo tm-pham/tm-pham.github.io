@@ -7,7 +7,7 @@ My research sits at the intersection of infectious disease epidemiology, quantit
 <p><a class="mp-button mp-button--ghost" href="publications.qmd">All publications</a></p>
 
 ::::: mp-theme
-<figure class="mp-theme__fig mp-theme__fig--photo"><img src="../images/research/canyon-epicurve.webp" alt="An epidemic curve of bars rising over the Colorado River gooseneck at sunrise" loading="lazy"></figure>
+<figure class="mp-theme__fig mp-theme__fig--photo"><img src="../images/research/alps-trend.webp" alt="A declining trend line with an uncertainty band drawn across the sunset sky above a sea of fog and snowy peaks" loading="lazy"></figure>
 
 ::: mp-theme__text
 ### Antibiotic use and resistance
