@@ -274,7 +274,12 @@ body.research main.content {
   padding-left: max(20px, env(safe-area-inset-left, 0px));
   padding-right: max(20px, env(safe-area-inset-right, 0px));
 }
+.mp-theme--flip { grid-template-columns: minmax(0, 7fr) minmax(0, 5fr); }
 .mp-theme--flip > .mp-theme__fig { order: 2; }
+.mp-theme h3 { white-space: nowrap; font-size: min(1.35rem, 2.15vw); }
+@media (max-width: 860px) {
+  .mp-theme h3 { white-space: normal; font-size: 1.3rem; text-wrap: balance; }
+}
 .mp-theme__text { min-width: 0; }
 @media (max-width: 860px) {
   .mp-theme { grid-template-columns: minmax(0, 1fr); gap: 16px; }
