@@ -1,16 +1,8 @@
 ---
 title: "Methods Reading List"
 toc: true
-toc-location: body
-page-layout: full
-body-classes: with-profile
+toc-location: right
 ---
-
-::::::: mp-layout
-{{< include /_profile.qmd >}}
-
-:::::: mp-main
-<h1 class="mp-title">Methods Reading List</h1>
 
 <p class="mp-eyebrow"><a href="index.qmd">← Teaching</a></p>
 
@@ -63,5 +55,3 @@ Most of us in epidemiology and infectious disease modeling are largely self-taug
 ### General coding
 
 - Athalye, A., Zhu, J. & Hålaj, A. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/). Covers the practical tools — the shell, version control, debugging, and more — that most curricula skip over but that you'll use every day.
-::::::
-:::::::

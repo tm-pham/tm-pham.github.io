@@ -1,14 +1,6 @@
 ---
 title: "Teaching & mentoring"
-page-layout: full
-body-classes: with-profile
 ---
-
-::::::: mp-layout
-{{< include /_profile.qmd >}}
-
-:::::: mp-main
-<h1 class="mp-title">Teaching & mentoring</h1>
 
 <div class="mp-banner"><img src="../images/photos/sheep-dust.webp" alt="A flock of sheep moving through dust at sunset"></div>
 
@@ -41,5 +33,3 @@ Over the years I've collected books, papers, tutorials, and tools that helped me
 
 [**Methods reading list**](methods.qmd)
 : Causal inference, Bayesian statistics, mathematical modeling, and coding.
-::::::
-:::::::

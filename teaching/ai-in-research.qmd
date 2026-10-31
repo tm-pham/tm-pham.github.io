@@ -1,16 +1,8 @@
 ---
 title: "Using AI in Research"
 toc: true
-toc-location: body
-page-layout: full
-body-classes: with-profile
+toc-location: right
 ---
-
-::::::: mp-layout
-{{< include /_profile.qmd >}}
-
-:::::: mp-main
-<h1 class="mp-title">Using AI in Research</h1>
 
 <p class="mp-eyebrow"><a href="index.qmd">← Teaching</a></p>
 
@@ -121,5 +113,3 @@ To make this concrete, I'm putting together a fully documented example that walk
 - reproducible execution
 
 **GitHub Repository:** [tm-pham/tb-incidence-brazil-stan](https://github.com/tm-pham/tb-incidence-brazil-stan)
-::::::
-:::::::

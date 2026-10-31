@@ -1,14 +1,8 @@
 ---
 title: "Research"
 page-layout: full
-body-classes: with-profile research
+body-classes: research
 ---
-
-::::::: mp-layout
-{{< include /_profile.qmd >}}
-
-:::::: mp-main
-<h1 class="mp-title">Research</h1>
 
 My research sits at the intersection of infectious disease epidemiology, quantitative modeling, and genomics. I develop statistical and mechanistic models to understand how infections spread and how interventions can be designed to stop them, drawing on large-scale clinical, genomic, and environmental datasets.
 
@@ -68,5 +62,3 @@ My PhD focused on nosocomial transmission of *Pseudomonas aeruginosa* in intensi
 - **Pham TM** et al. (2022). Routes of transmission of VIM-positive *Pseudomonas aeruginosa* in the adult intensive care unit. *Antimicrobial Resistance & Infection Control*. [doi:10.1186/s13756-022-01095-x](https://doi.org/10.1186/s13756-022-01095-x)
 :::
 :::::
-::::::
-:::::::

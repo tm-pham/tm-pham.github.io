@@ -1,14 +1,6 @@
 ---
 title: "Curriculum Vitae"
-page-layout: full
-body-classes: with-profile
 ---
-
-::::::: mp-layout
-{{< include /_profile.qmd >}}
-
-:::::: mp-main
-<h1 class="mp-title">Curriculum Vitae</h1>
 
 <p><a class="mp-button" href="files/Pham_CV.pdf">Download the full CV (PDF)</a></p>
 
@@ -67,5 +59,3 @@ Infectious disease modeler developing data-driven models to inform public health
 - **Organizing Committee Member**, ID Epi Spring Seminar, Harvard T.H. Chan School of Public Health (2023)
 - **Ph.D. Council Member**, Graduate School of Life Sciences, Utrecht (2018–2022)
 - **Curriculum Volunteer**, Kiron Open Higher Education (2015–2017)
-::::::
-:::::::

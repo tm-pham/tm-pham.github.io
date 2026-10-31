@@ -51,7 +51,7 @@ description: "Infectious disease modeler at the University of Utah working on an
 
 My work sits at the intersection of epidemiology, statistics, and public health, with a particular focus on antimicrobial resistance: how it emerges, how it spreads, and how we might slow it down through better decisions at both the clinical and population level.
 
-I'm currently a Postdoctoral Research Associate at the University of Utah, where I work with Katharine Walter on statistical models of how ambient air pollution affects tuberculosis, and on estimating transmission bottlenecks for TB.
+I'm currently a Postdoctoral Research Associate at the University of Utah, where I work with [Katharine Walter](https://ksw9.github.io/) on statistical models of how ambient air pollution affects tuberculosis, and on estimating transmission bottlenecks for TB.
 
 Previously, I was a Postdoctoral Fellow with Yonatan Grad and Marc Lipsitch at the Harvard T.H. Chan School of Public Health. There I studied the relationship between antibiotic use and antibiotic resistance, drawing on large-scale data from the U.S. Veterans Health Administration and Alberta Health Services in Canada. I also integrated epidemiological and genomic data to distinguish transmission from importation during real-time SARS-CoV-2 outbreak investigations, using surveillance and whole-genome sequencing data from the NBA Occupational Health Program.
 
