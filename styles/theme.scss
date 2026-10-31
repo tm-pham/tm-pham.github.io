@@ -63,10 +63,11 @@ $footer-fg: $muted;
 body.home {
   padding-top: 0 !important;
   #quarto-header {
-    position: absolute !important;
+    position: fixed !important;
     top: 0; left: 0; right: 0;
     background: transparent;
     box-shadow: none;
+    transition: background-color 0.25s ease;
   }
   .navbar {
     background: transparent !important;
@@ -77,6 +78,20 @@ body.home {
   }
   #quarto-content, main.content { margin-top: 0 !important; padding-top: 0 !important; }
   #title-block-header { display: none; }
+}
+// Once the visitor scrolls past the top of the hero, the home navbar turns solid
+body.home.mp-scrolled {
+  #quarto-header { background: $oxblood; box-shadow: 0 2px 10px rgba(30, 26, 34, 0.18); }
+  .navbar {
+    background: $oxblood !important;
+    .navbar-brand, .navbar-title { visibility: visible; }
+    .nav-link, .navbar-toggler { color: $bone !important; }
+    .nav-link:hover { color: $sunrise !important; }
+    .navbar-toggler-icon { filter: none; }
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  body.home #quarto-header { transition: none; }
 }
 
 // ---------- Hero ----------

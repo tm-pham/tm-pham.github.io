@@ -16,6 +16,7 @@ website:
   page-navigation: false
   navbar:
     title: "Mui Pham"
+    pinned: true
     right:
       - text: "About"
         menu:
