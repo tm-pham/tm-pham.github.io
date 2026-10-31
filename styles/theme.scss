@@ -253,7 +253,7 @@ h2::after {
 }
 
 // One-line credit under an image (wraps only on narrow screens)
-.mp-theme__fig figcaption.mp-credit { font-size: 0.68rem; white-space: nowrap; letter-spacing: -0.005em; }
+.mp-theme__fig figcaption.mp-credit { font-size: 0.68rem; white-space: nowrap; letter-spacing: -0.005em; text-align: center; }
 @media (max-width: 1140px) {
   .mp-theme__fig figcaption.mp-credit { white-space: normal; }
 }
