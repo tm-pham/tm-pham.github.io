@@ -1,0 +1,331 @@
+/*-- scss:defaults --*/
+
+// Fonts: serif headings, grotesque body, mono for labels and data
+@import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=JetBrains+Mono:wght@400;500&display=swap");
+
+// Palette: taken from the canyon photographs
+$oxblood:   #4A1A1C;   // panel / brand ground (shadows of the sandstone)
+$sandstone: #C9713F;   // marks, rules, portrait ring
+$sunrise:   #E8A57A;   // accent on dark ground
+$sage:      #7E9479;   // second data colour
+$bone:      #F4EEE6;   // text on dark ground
+$ink:       #1E1A22;   // text on light ground
+$paper:     #FBF8F5;   // page ground
+$muted:     #6B5E5B;   // secondary text on light ground
+
+$body-bg: $paper;
+$body-color: $ink;
+$link-color: #8A3A2E;
+$link-hover-color: $oxblood;
+$primary: $oxblood;
+
+$font-family-sans-serif: "Bricolage Grotesque", system-ui, -apple-system, "Segoe UI", sans-serif;
+$font-family-monospace: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+$headings-font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+$headings-font-weight: 600;
+$font-size-root: 17px;
+$line-height-base: 1.6;
+
+$navbar-bg: $oxblood;
+$navbar-fg: $bone;
+$navbar-hl: $sunrise;
+
+$footer-bg: $paper;
+$footer-fg: $muted;
+
+/*-- scss:rules --*/
+
+:root {
+  --mp-oxblood: #{$oxblood};
+  --mp-sandstone: #{$sandstone};
+  --mp-sunrise: #{$sunrise};
+  --mp-sage: #{$sage};
+  --mp-bone: #{$bone};
+  --mp-ink: #{$ink};
+  --mp-muted: #{$muted};
+}
+
+// ---------- Navbar (all pages) ----------
+.navbar {
+  font-family: $font-family-sans-serif;
+  font-weight: 600;
+  .navbar-title { font-weight: 700; }
+  .nav-link { font-size: 1.02rem; }
+  .dropdown-menu {
+    font-family: $font-family-sans-serif;
+    border: 0;
+    border-radius: 6px;
+    box-shadow: 0 8px 24px rgba(30, 26, 34, 0.14);
+  }
+}
+
+// ---------- Home page: navbar sits over the photo ----------
+body.home {
+  padding-top: 0 !important;
+  #quarto-header {
+    position: fixed !important;
+    top: 0; left: 0; right: 0;
+    background: transparent;
+    box-shadow: none;
+    transition: background-color 0.25s ease;
+  }
+  .navbar {
+    background: transparent !important;
+    .navbar-brand, .navbar-title { visibility: hidden; }
+    .nav-link, .navbar-toggler { color: $ink !important; }
+    .nav-link:hover { color: $oxblood !important; }
+    .navbar-toggler-icon { filter: invert(1); }
+  }
+  #quarto-content, main.content { margin-top: 0 !important; padding-top: 0 !important; }
+  #title-block-header { display: none; }
+}
+// Once the visitor scrolls past the top of the hero, the home navbar turns solid
+body.home.mp-scrolled {
+  #quarto-header { background: $oxblood; box-shadow: 0 2px 10px rgba(30, 26, 34, 0.18); }
+  .navbar {
+    background: $oxblood !important;
+    .navbar-brand, .navbar-title { visibility: visible; }
+    .nav-link, .navbar-toggler { color: $bone !important; }
+    .nav-link:hover { color: $sunrise !important; }
+    .navbar-toggler-icon { filter: none; }
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  body.home #quarto-header { transition: none; }
+}
+
+// ---------- Hero ----------
+.mp-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 600px) minmax(0, 1fr);
+  min-height: 760px;
+  padding: 0 !important;
+  margin: 0;
+  background: $oxblood;
+  color: $bone;
+
+  a { color: $bone; text-decoration: none; }
+  a:hover { color: $sunrise; }
+}
+
+.mp-hero__panel {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 40px;
+  padding: 40px 64px 40px 72px;
+  min-width: 0;
+}
+
+.mp-hero__id {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  img {
+    width: 92px; height: 115px;
+    border-radius: 3px;
+    object-fit: cover;
+    border: 2px solid $sandstone;
+    flex: none;
+  }
+}
+.mp-hero__name { font-weight: 700; font-size: 1.45rem; line-height: 1.2; }
+.mp-label {
+  font-family: $font-family-monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #C9BDB3;
+  line-height: 1.6;
+}
+
+.mp-hero__body { display: flex; flex-direction: column; gap: 22px; }
+.mp-hero h1 {
+  margin: 0;
+  font-family: $headings-font-family;
+  font-weight: 400;
+  font-size: clamp(2.6rem, 4.2vw, 3.4rem);
+  line-height: 1.02;
+  letter-spacing: -0.02em;
+  color: $bone;
+  border: 0;
+  b { font-weight: 700; color: $sunrise; }
+}
+.mp-hero__lede { margin: 0; font-size: 1.12rem; line-height: 1.55; color: #E3D9CF; max-width: 28rem; }
+.mp-hero__trace { width: 100%; max-width: 464px; height: auto; }
+
+.mp-hero__links {
+  display: flex; flex-wrap: nowrap; gap: 8px;
+  font-family: $font-family-monospace; font-size: 0.72rem;
+  a { border: 1px solid #7A5153; border-radius: 999px; padding: 7px 11px; white-space: nowrap; }
+  a:hover { border-color: $sunrise; }
+}
+
+.mp-hero__photo {
+  position: relative;
+  overflow: hidden;
+  margin: 0;
+  min-height: 420px;
+  img {
+    position: absolute; inset: 0;
+    width: 100%; height: 100%;
+    object-fit: cover; object-position: 60% 50%;
+  }
+  figcaption {
+    position: absolute; right: 20px; bottom: 16px;
+    font-family: $headings-font-family;
+    font-size: 0.75rem; letter-spacing: 0.04em;
+    color: $ink; opacity: 0.7;
+  }
+}
+
+@media (max-width: 900px) {
+  .mp-hero { grid-template-columns: minmax(0, 1fr); min-height: 0; }
+  .mp-hero__photo { order: -1; min-height: 300px; }
+  .mp-hero__panel { padding: 32px max(20px, env(safe-area-inset-left, 0px)); }
+  .mp-hero__links { flex-wrap: wrap; }
+}
+
+// ---------- Content pages ----------
+.mp-wrap { max-width: 760px; margin: 0 auto; padding: 56px 20px 24px; }
+
+h1.title, .quarto-title h1 { font-weight: 700; letter-spacing: -0.015em; }
+h2 {
+  font-weight: 600;
+  margin-top: 2.6rem;
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+h2::after {
+  content: "";
+  display: block;
+  width: 40px; height: 3px;
+  margin-top: 10px;
+  background: $sandstone;
+}
+.quarto-title-meta, .quarto-title .subtitle { color: $muted; }
+
+.mp-eyebrow {
+  font-family: $font-family-monospace;
+  font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase;
+  color: $muted;
+}
+
+// Banner photo at the top of section pages
+.mp-banner {
+  height: clamp(220px, 34vw, 400px);
+  border-radius: 6px;
+  overflow: hidden;
+  margin: 0 0 2rem;
+  img { width: 100%; height: 100%; object-fit: cover; }
+}
+
+// Timeline (About, CV)
+.mp-timeline {
+  list-style: none; padding: 0; margin: 1.2rem 0;
+  li {
+    display: grid;
+    grid-template-columns: 9.5rem minmax(0, 1fr);
+    gap: 16px;
+    padding: 12px 0;
+    border-top: 1px solid #E8DFD6;
+  }
+  .when { font-family: $font-family-monospace; font-size: 0.8rem; color: $muted; padding-top: 3px; }
+  .what { min-width: 0; }
+  .what strong { display: block; }
+  .what span { color: $muted; }
+}
+@media (max-width: 560px) {
+  .mp-timeline li { grid-template-columns: minmax(0, 1fr); gap: 2px; }
+}
+
+.mp-button {
+  display: inline-block;
+  background: $oxblood; color: $bone !important;
+  padding: 10px 20px; border-radius: 999px;
+  font-weight: 600; text-decoration: none;
+  &:hover { background: #6A2A2A; }
+}
+.mp-button--ghost {
+  background: transparent; color: $oxblood !important;
+  border: 1.5px solid $oxblood;
+  &:hover { background: $oxblood; color: $bone !important; }
+}
+
+// One-line credit under an image (wraps only on narrow screens)
+.mp-theme__fig figcaption.mp-credit { font-size: 0.68rem; white-space: nowrap; letter-spacing: -0.005em; text-align: center; }
+@media (max-width: 1140px) {
+  .mp-theme__fig figcaption.mp-credit { white-space: normal; }
+}
+
+// Research themes
+.mp-theme {
+  display: grid;
+  grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+  gap: 40px;
+  align-items: start;
+  padding: 2rem 0;
+  border-top: 1px solid #E8DFD6;
+}
+body.research main.content {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: max(20px, env(safe-area-inset-left, 0px));
+  padding-right: max(20px, env(safe-area-inset-right, 0px));
+}
+.mp-theme--flip { grid-template-columns: minmax(0, 7fr) minmax(0, 5fr); }
+.mp-theme--flip > .mp-theme__fig { order: 2; }
+.mp-theme h3 { white-space: nowrap; font-size: min(1.35rem, 2.15vw); }
+@media (max-width: 860px) {
+  .mp-theme h3 { white-space: normal; font-size: 1.3rem; text-wrap: balance; }
+}
+.mp-theme__text { min-width: 0; }
+@media (max-width: 860px) {
+  .mp-theme { grid-template-columns: minmax(0, 1fr); gap: 16px; }
+  .mp-theme--flip > .mp-theme__fig { order: 0; }
+}
+.mp-theme h3 { margin-top: 0; }
+.mp-theme__fig {
+  margin: 0 0 1.2rem;
+  img { display: block; width: 100%; height: auto; max-height: 380px; object-fit: contain; }
+  figcaption { font-size: 0.8rem; color: $muted; margin-top: 6px; }
+}
+.mp-theme__fig--photo img { max-height: none; height: auto; border-radius: 6px; }
+.mp-theme__img {
+  height: 200px;
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 1.2rem;
+  img { width: 100%; height: 100%; object-fit: cover; display: block; }
+}
+.mp-pill {
+  display: inline-block;
+  font-family: $font-family-monospace; font-size: 0.72rem;
+  padding: 3px 10px; border-radius: 999px;
+  background: #F1E5DC; color: #6A2A2A;
+  margin: 0 6px 6px 0;
+}
+
+// Publications
+.mp-pubs { list-style: none; padding: 0; }
+.mp-pubs li { padding: 0.75rem 0; border-top: 1px solid #E8DFD6; }
+.mp-pubs .t { font-weight: 600; display: block; }
+.mp-pubs .a { color: $muted; font-size: 0.95rem; }
+.mp-pubs .j { font-style: italic; }
+.mp-pubs .doi { font-family: $font-family-monospace; font-size: 0.78rem; }
+.mp-pubs b { color: $ink; }
+.mp-year { font-family: $font-family-monospace; color: $sandstone; margin-top: 2rem; }
+
+// Photography gallery
+.mp-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr));
+  gap: 14px;
+  figure { margin: 0; }
+  img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 4px; display: block; }
+  figcaption { font-size: 0.82rem; color: $muted; margin-top: 6px; }
+}
+
+// Footer
+.nav-footer { font-family: $font-family-monospace; font-size: 0.78rem; }
