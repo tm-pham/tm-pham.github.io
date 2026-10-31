@@ -27,7 +27,7 @@ Understanding how antibiotic use drives resistance is essential for designing ef
 :::::
 
 ::::: {.mp-theme .mp-theme--flip}
-<figure class="mp-theme__fig"><img src="../images/research/lung-brazil-smoke.webp" alt="Illustration of a lung with tuberculosis bacteria whose airway branches into a map of Brazil, with wildfire smoke rising above" loading="lazy"><figcaption>Illustration based on work by Chenyu Zhang, adapted with permission using Opus 5.5 by Anthropic (2026).</figcaption></figure>
+<figure class="mp-theme__fig"><img src="../images/research/lung-brazil-smoke.webp" alt="Illustration of a lung with tuberculosis bacteria whose airway branches into a map of Brazil, with wildfire smoke rising above" loading="lazy"><figcaption class="mp-credit">Illustration based on work by Chenyu Zhang, adapted with permission using Opus 5.5 by Anthropic (2026).</figcaption></figure>
 
 ::: mp-theme__text
 ### Environmental exposures and tuberculosis

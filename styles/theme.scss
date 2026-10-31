@@ -252,6 +252,12 @@ h2::after {
   &:hover { background: $oxblood; color: $bone !important; }
 }
 
+// One-line credit under an image (wraps only on narrow screens)
+.mp-theme__fig figcaption.mp-credit { font-size: 0.68rem; white-space: nowrap; letter-spacing: -0.005em; }
+@media (max-width: 1140px) {
+  .mp-theme__fig figcaption.mp-credit { white-space: normal; }
+}
+
 // Research themes
 .mp-theme {
   display: grid;
