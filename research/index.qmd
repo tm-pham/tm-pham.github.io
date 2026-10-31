@@ -27,7 +27,7 @@ Understanding how antibiotic use drives resistance is essential for designing ef
 :::::
 
 ::::: {.mp-theme .mp-theme--flip}
-<figure class="mp-theme__fig"><img src="../images/research/lung-brazil-smoke.webp" alt="Illustration of a lung with tuberculosis bacteria whose airway branches into a map of Brazil, with wildfire smoke rising above" loading="lazy"><figcaption>Illustration based on work by Chenyu Zhang, adapted with Claude.</figcaption></figure>
+<figure class="mp-theme__fig"><img src="../images/research/lung-brazil-smoke.webp" alt="Illustration of a lung with tuberculosis bacteria whose airway branches into a map of Brazil, with wildfire smoke rising above" loading="lazy"><figcaption>Illustration based on work by Chenyu Zhang, adapted with permission using Opus 5.5 by Anthropic (2026).</figcaption></figure>
 
 ::: mp-theme__text
 ### Environmental exposures and tuberculosis
@@ -43,7 +43,7 @@ At the University of Utah, I study how environmental factors shape infectious di
 :::::
 
 ::::: mp-theme
-<figure class="mp-theme__fig mp-theme__fig--photo"><img src="../images/research/badlands-phylogeny.webp" alt="A phylogenetic tree drawn over eroded badlands, its branches following the ridges down to coloured tips" loading="lazy"><figcaption>A phylogeny drawn over the ridges of eroded badlands.</figcaption></figure>
+<figure class="mp-theme__fig mp-theme__fig--photo"><img src="../images/research/badlands-phylogeny.webp" alt="A phylogenetic tree drawn over eroded badlands, its branches following the ridges down to coloured tips" loading="lazy"></figure>
 
 ::: mp-theme__text
 ### Transmission dynamics and genomic epidemiology
